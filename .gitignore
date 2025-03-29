@@ -5,3 +5,6 @@
 .vscode/
 DSA cpp/tempCodeRunnerFile.cpp
 DSA cpp/build/Debug/
+
+# Ignore all .o files
+*.class
